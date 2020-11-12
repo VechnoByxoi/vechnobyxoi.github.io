@@ -1,0 +1,461 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.logo{
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	left: 40px;
+	top: 29px;
+	background: url(images\logo-2.png);	
+}
+
+.heart{
+	position: absolute;
+	width: 30px;
+	height: 30.94px;
+	right: 158px;
+	top: 59px;
+}
+
+.cart{
+	position: absolute;
+	width: 30px;
+	height: 30.94px;
+	right: 98px;
+	top: 59px;
+}
+
+.back{
+	position: absolute;
+	width: 75px;
+	height: 0px;
+	left: 50px;
+	top: 154px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.product{
+	position: absolute;
+	width: 178px;
+	height: 44px;
+	left: 50px;
+	top: 150px;
+	font-family: Cormorant;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 44px;
+	letter-spacing: 0.05em;
+	color: #212121;
+}
+.product-card{
+	position: absolute;
+	width: 89px;
+	height: 17px;
+	left: 50px;
+	top: 271px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 35px;
+	letter-spacing: 0.05em;
+	color: black;
+
+}
+
+.img-block{
+	position: absolute;
+	width: 567px;
+	height: 443px;
+	left: calc(50% - 567px/2 - 67.5px);
+	top: calc(50% - 443px/2 - 59.5px);
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+}
+
+.img{
+	position: absolute;
+	width: 497.95px;
+	height: 262.49px;
+	left: 30px;
+	top: 50px;
+	border-radius: 5px;
+}
+
+.mango{
+	position: absolute;
+	width: 390px;
+	height: 29px;
+	left: calc(50% - 374px/2 + 433px);
+	top: 200px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 29px;
+	letter-spacing: 0.1em;
+	color: #212121;
+}
+
+.mango-text{
+	position: absolute;
+	width: 374px;
+	height: 100px;
+	left: calc(50% - 374px/2 + 433px);
+	top: 270px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 25px;
+	letter-spacing: 0.05em;
+	color: #000000;
+}
+
+.weight{
+	position: absolute;
+	width: 77px;
+	height: 25px;
+	left: calc(50% - 77px/2 + 284.5px);
+	top: 405px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 25px;
+	letter-spacing: 0.05em;
+	color: #000000;
+}
+
+.oneg{
+	position: absolute;
+	width: 41px;
+	height: 17px;
+	left: calc(50% - 41px/2 + 394.5px);
+	top: 412px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	letter-spacing: 0.05em;
+	color: #000000;
+	z-index: 1;
+}
+
+.twog{
+	position: absolute;
+	width: 50px;
+	height: 17px;
+	left: calc(50% - 55px/2 + 518px);
+	top: 412px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	letter-spacing: 0.05em;
+	color: black;
+}
+
+.threeg{
+	position: absolute;
+	width: 50px;
+	height: 17px;
+	left: calc(50% - 50px/2 + 395.5px);
+	top: 448px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	letter-spacing: 0.05em;
+	color: #000000;
+	z-index: 1;
+}
+
+.fourg{
+	position: absolute;
+	width: 50px;
+	height: 17px;
+	left: calc(50% - 53px/2 + 518px);
+	top: 447px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	letter-spacing: 0.05em;
+	color: #000000;
+}
+
+.one-box{
+	position: absolute;
+	width: 103px;
+	height: 26.87px;
+	left: 580px;
+	top: 435px;
+}
+
+.two-box{
+	position: absolute;
+	width: 103px;
+	height: 26.87px;
+	left: 460px;
+	top: 435px;
+}
+
+.three-box{
+	position: absolute;
+	width: 103px;
+	height: 26.87px;
+	left: 580px;
+	top: 470px;
+}
+
+.four-box{
+	position: absolute;
+	width: 103px;
+	height: 26.87px;
+	left: 460px;
+	top: 470px;
+}
+
+
+.buy {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	width: 39px;
+	height: 20px;
+	left: 950px;
+	top: 557px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	color: white;
+}
+
+.buy .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+.buy .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.buy .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+
+.buy-button{
+	position: absolute;
+	width: 185px;
+	height: 46px;
+	left: calc(50% - 185px/2 + 338.5px);
+	top: 550px;
+	background: #81AA6A;
+	border-radius: 20px;
+}
+
+.price{
+	position: absolute;
+	width: 48px;
+	height: 29px;
+	left: calc(50% - 48px/2 + 485px);
+	top: 535px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 29px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	color: #212121;
+}
+
+.heart-buy{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: calc(50% - 30px/2 + 554px);
+	top: 560px;
+}
+
+.you{
+	position: absolute;
+	width: 180px;
+	height: 20px;
+	left: calc(50% - 141px/2 - 280.5px);
+	top: calc(50% - 45px/2 + 207px);
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: 0.1em;
+	color: #212121;
+}
+
+.oneb{
+	position: absolute;
+	width: 169px;
+	height: 134px;
+	left: calc(50% - 169px/2 - 266.5px);
+	top: calc(50% - 134px/2 + 304px);
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+}
+
+.twob{
+	position: absolute;
+	width: 169px;
+	height: 134px;
+	left: calc(50% - 169px/2 - 67.5px);
+	top: calc(50% - 134px/2 + 304px);
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+}
+
+.threeb{
+	position: absolute;
+	width: 169px;
+	height: 134px;
+	left: calc(50% - 169px/2 + 131.5px);
+	top: calc(50% - 134px/2 + 304px);
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+}
+
+.fourb{
+	position: absolute;
+	width: 169px;
+	height: 134px;
+	left: calc(50% - 169px/2 + 330.5px);
+	top: calc(50% - 134px/2 + 304px);
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+}
+
+.fiveb{
+	position: absolute;
+	width: 169px;
+	height: 134px;
+	left: calc(50% - 169px/2 + 529.5px);
+	top: calc(50% - 134px/2 + 304px);
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+}
+
+.onebimg{
+	position: absolute;
+	width: 150px;
+	height: 100px;
+	left: calc(50% - 150px/2 - 266px);
+	top: calc(50% - 100px/2 + 304px);
+}
+
+.twobimg{
+	position: absolute;
+	width: 161px;
+	height: 87px;
+	left: calc(50% - 161px/2 - 67.5px);
+	top: calc(50% - 87px/2 + 303.5px);
+}
+
+.threebimg{
+	position: absolute;
+	width: 154px;
+	height: 93px;
+	left: calc(50% - 154px/2 + 132px);
+	top: calc(50% - 93px/2 + 303.5px);
+}
+
+.fourbimg{
+	position: absolute;
+	width: 115px;
+	height: 116px;
+	left: calc(50% - 115px/2 + 341.5px);
+	top: calc(50% - 116px/2 + 312px);
+
+}
+
+.fivebimg{
+	position: absolute;
+	width: 153px;
+	height: 91px;
+	left: calc(50% - 153px/2 + 529.5px);
+	top: calc(50% - 91px/2 + 304.5px);
+}
+
+.button {
+  -webkit-appearance: none;
+  appearance: none;
+  border: 0;
+  outline: none;
+  display: inline-block;
+  border-radius: 50%;
+  position: absolute;
+width: 103px;
+height: 26.87px;
+left: calc(50% - 103px/2 + 517.5px);
+top: calc(50% - 26.87px/2 - 18.13px);
+background: white;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+border-radius: 20px;
+}
+
+.button:checked {
+  background: #81AA6A;
+}
