@@ -60,7 +60,7 @@ body{
 	width: 32px;
 	height: 131.2px;
 	left: 37px;
-	top: 430px;
+	top: 717px;
 	font-family: Montserrat, sans-serif;
 	font-style: normal;
 	font-weight:500;
@@ -95,7 +95,7 @@ body{
 	width: 90px;
 	height: 30px;
 	left: 490px;
-	top: 35px;
+	top: 200px;
 }
 .right-icon1{
 	position: absolute;
@@ -108,7 +108,7 @@ body{
 	position: absolute;
 	width: 524px;
 	right: 50px;
-	top: 65%;
+	top: 72.44%;
 	bottom: 6.33%;
 }
 .right-images1{
@@ -133,7 +133,7 @@ body{
 	width: 185px;
 	height: 46px;
 	right: 391px;
-	top: calc(50% - 125px/2 + 74px);
+	top: calc(50% - 46px/2 + 74px);
 	background: #81AA6A;
 	border-radius: 20px;
 }
@@ -168,7 +168,7 @@ a{
 	position: absolute;
 	width: 524px;
 	right: 52px;
-	top: 8%;
+	top: 25%;
 	bottom: 46.67%;
 	font-family: Cormorant;
 	font-style: normal;
@@ -183,7 +183,7 @@ a{
 	position: absolute;
 	width: 409px;
 	right: 167px;
-	top: 20%;
+	top: 33%;
 	bottom: 61.22%;
 	font-family: Montserrat;
 	font-style: normal;
@@ -266,7 +266,7 @@ a{
 	width: 120px;
 	height: 132px;
 	left: 55px;
-	top: 430px;
+	top: 716px;
 }
 
 .menu-vk{
@@ -328,7 +328,7 @@ color: #212121;
 width: 90px;
 height: 90px;
 left: 80px;
-top: 10px;
+top: 17px;
 }
 
 .menu2{
@@ -336,7 +336,7 @@ top: 10px;
 width: 100px;
 height: 176px;
 left: 20px;
-top: -250px;
+top: -200px;
 }
 
 .menu-about{
@@ -344,7 +344,7 @@ top: -250px;
 width: 71px;
 height: 22px;
 left: 63px;
-top: 350px;
+top: 359px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -364,7 +364,7 @@ color: #212121;
 width: 56px;
 height: 22px;
 left: 61px;
-top: 410px;
+top: 436px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -383,8 +383,8 @@ color: #212121;
 	position: absolute;
 width: 96px;
 height: 22px;
-left: 61px;
-top: 470px;
+left: 65px;
+top: 513px;
 
 font-family: Montserrat;
 font-style: normal;
