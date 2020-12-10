@@ -152,8 +152,8 @@ a{
 	position: absolute;
 	width: 50px;
 	height: 17px;
-	left: calc(50% - 55px/2 + 518px);
-	top: 412px;
+	left: calc(50% - 85px/2 + 518px);
+	top: 455px;
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: 500;
@@ -168,8 +168,8 @@ a{
 	position: absolute;
 	width: 50px;
 	height: 17px;
-	left: calc(50% - 50px/2 + 395.5px);
-	top: 448px;
+	left: calc(50% - 80px/2 + 395.5px);
+	top: 492px;
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: 500;
@@ -185,8 +185,8 @@ a{
 	position: absolute;
 	width: 50px;
 	height: 17px;
-	left: calc(50% - 53px/2 + 518px);
-	top: 447px;
+	left: calc(50% - 85px/2 + 518px);
+	top: 492px;
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: 500;
@@ -205,7 +205,7 @@ a{
 	top: 515px;
 }
 
-.two-box{
+.three-box{
 	position: absolute;
 	width: 103px;
 	height: 26.87px;
@@ -213,7 +213,7 @@ a{
 	top: 515px;
 }
 
-.three-box{
+.two-box{
 	position: absolute;
 	width: 103px;
 	height: 26.87px;
@@ -240,7 +240,7 @@ a{
     user-select: none;
 	width: 39px;
 	height: 20px;
-	left: 950px;
+	left: 965px;
 	top: 557px;
 	font-family: Montserrat;
 	font-style: normal;
@@ -333,7 +333,7 @@ a{
 	width: 180px;
 	height: 20px;
 	left: calc(50% - 141px/2 - 280.5px);
-	top: calc(50% - 45px/2 + 207px);
+	top: 660px;
 	font-family: Montserrat;
 	font-style: normal;
 	font-weight: 500;
@@ -348,7 +348,7 @@ a{
 	width: 169px;
 	height: 134px;
 	left: calc(50% - 169px/2 - 266.5px);
-	top: calc(50% - 134px/2 + 304px);
+	top: 730px;
 	background: #FFFFFF;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 	border-radius: 5px;
@@ -359,7 +359,7 @@ a{
 	width: 169px;
 	height: 134px;
 	left: calc(50% - 169px/2 - 67.5px);
-	top: calc(50% - 134px/2 + 304px);
+	top: 730px;
 	background: #FFFFFF;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 	border-radius: 5px;
@@ -370,7 +370,7 @@ a{
 	width: 169px;
 	height: 134px;
 	left: calc(50% - 169px/2 + 131.5px);
-	top: calc(50% - 134px/2 + 304px);
+	top: 730px;
 	background: #FFFFFF;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 	border-radius: 5px;
@@ -381,7 +381,7 @@ a{
 	width: 169px;
 	height: 134px;
 	left: calc(50% - 169px/2 + 330.5px);
-	top: calc(50% - 134px/2 + 304px);
+	top: 730px;
 	background: #FFFFFF;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 	border-radius: 5px;
@@ -392,7 +392,7 @@ a{
 	width: 169px;
 	height: 134px;
 	left: calc(50% - 169px/2 + 529.5px);
-	top: calc(50% - 134px/2 + 304px);
+	top: 730px;
 	background: #FFFFFF;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 	border-radius: 5px;
@@ -403,7 +403,7 @@ a{
 	width: 150px;
 	height: 100px;
 	left: calc(50% - 150px/2 - 266px);
-	top: calc(50% - 100px/2 + 304px);
+	top: 735px;
 }
 
 .twobimg{
@@ -411,7 +411,7 @@ a{
 	width: 161px;
 	height: 87px;
 	left: calc(50% - 161px/2 - 67.5px);
-	top: calc(50% - 87px/2 + 303.5px);
+	top: 750px;
 }
 
 .threebimg{
@@ -419,7 +419,7 @@ a{
 	width: 154px;
 	height: 93px;
 	left: calc(50% - 154px/2 + 132px);
-	top: calc(50% - 93px/2 + 303.5px);
+	top: 750px;
 }
 
 .fourbimg{
@@ -427,7 +427,7 @@ a{
 	width: 115px;
 	height: 116px;
 	left: calc(50% - 115px/2 + 341.5px);
-	top: calc(50% - 116px/2 + 312px);
+	top: 750px;
 
 }
 
@@ -436,7 +436,7 @@ a{
 	width: 153px;
 	height: 91px;
 	left: calc(50% - 153px/2 + 529.5px);
-	top: calc(50% - 91px/2 + 304.5px);
+	top: 750px;
 }
 
 .button {
