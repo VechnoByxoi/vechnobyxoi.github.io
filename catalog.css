@@ -242,9 +242,175 @@ a{
 	color: #FFFFFF;
 }
 
+.wild{
+	position: absolute;
+	width: 400px;
+	height: 470px;
+	left: 340px;
+	top: 850px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;	
+}
 
+.wild-text{
+	position: absolute;
+	width: 250px;
+	height: 20px;
+	left: 0px;
+	top: calc(50% - 20px/2 - 271.5px);
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: 0.1em;
+	color: #212121;
+}
 
+.wild-img{
+	position: absolute;
+	width: 390px;
+	height: 390px;
+	left: calc(50% - 357px/2 - 1px);
+	top: calc(50% - 320px/2 - 15.5px);
+}
 
+.wild-heart{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 64px;
+	top: 496px;
+}
+
+.wild-price{
+	position: absolute;
+	width: 36px;
+	height: 22px;
+	left: 3px;
+	top: 480px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	color: #212121;
+}
+
+.wild-button{
+	position: absolute;
+	width: 185px;
+	height: 46px;
+	right: 0px;
+	top: 487px;
+	bottom: 0%;
+	background: #81AA6A;
+	border-radius: 20px;
+}
+
+.wild-button-text{
+	position: absolute;
+	left: 35.14%;
+	right: 34.59%;
+	top: 0;
+	bottom: 28.26%;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	color: #FFFFFF;
+}
+
+.admiral{
+	position: absolute;
+	width: 378px;
+	height: 470px;
+	left: 803px;
+	top: 850px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;	
+}
+
+.admiral-text{
+	position: absolute;
+	width: 250px;
+	height: 20px;
+	left: 0px;
+	top: calc(50% - 20px/2 - 271.5px);
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: 0.1em;
+	color: #212121;
+}
+
+.admiral-img{
+	position: absolute;
+	width: 387px;
+	height: 204px;
+	left: calc(50% - 380px/2 - 1px);
+	top: calc(50% - 350px/2 - 15.5px);
+}
+
+.admiral-heart{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 64px;
+	top: 496px;
+}
+
+.admiral-price{
+	position: absolute;
+	width: 36px;
+	height: 22px;
+	left: 3px;
+	top: 480px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	color: #212121;
+}
+
+.admiral-button{
+	position: absolute;
+	width: 185px;
+	height: 46px;
+	right: 0px;
+	top: 487px;
+	bottom: 0%;
+	background: #81AA6A;
+	border-radius: 20px;
+}
+
+.admiral-button-text{
+	position: absolute;
+	left: 35.14%;
+	right: 34.59%;
+	top: 0;
+	bottom: 28.26%;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	color: #FFFFFF;
+}
 
 
 
@@ -262,7 +428,7 @@ a{
 	width: 0px;
 	height: 212px;
 	left: -80px;
-	top: 1730px;
+	top: -150px;
 }
 
 .podval-line{
@@ -478,4 +644,28 @@ a{
 	text-align: center;
 	letter-spacing: 0.05em;
 	color: #212121;
+}
+
+.gift-p{
+	color:black;
+}
+
+.other-p{
+	color:black;
+}
+
+.puer-p{
+	color:black;
+}
+
+.blog-p{
+	color: black;
+}	
+
+.vacancy-p{
+	color:black;
+}
+
+.about-p{
+	color:black;
 }
