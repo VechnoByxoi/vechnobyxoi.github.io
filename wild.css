@@ -82,7 +82,7 @@ a{
 	width: 497.95px;
 	height: 262.49px;
 	left: 30px;
-	top: 50px;
+	top: 30px;
 	border-radius: 5px;
 }
 
@@ -410,16 +410,16 @@ a{
 	position: absolute;
 	width: 161px;
 	height: 87px;
-	left: calc(50% - 140px/2 - 67.5px);
-	top: 738px;
+	left: calc(50% - 161px/2 - 67.5px);
+	top: 750px;
 }
 
 .threebimg{
 	position: absolute;
 	width: 154px;
 	height: 93px;
-	left: calc(50% - 154px/2 + 132px);
-	top: 750px;
+	left: calc(50% - 140px/2 + 132px);
+	top: 738px;
 }
 
 .fourbimg{

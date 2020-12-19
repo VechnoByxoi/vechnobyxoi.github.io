@@ -325,7 +325,7 @@ a{
 	width: 30px;
 	height: 30px;
 	left: calc(50% - 30px/2 + 554px);
-	top: 550px;
+	top: 551px;
 }
 
 .you{
@@ -403,7 +403,7 @@ a{
 	width: 150px;
 	height: 100px;
 	left: calc(50% - 150px/2 - 266px);
-	top: 735px;
+	top: 750px;
 }
 
 .twobimg{
@@ -491,6 +491,10 @@ border-radius: 20px;
 .red-p{
 	color:black;
 }
+
+
+
+
 
 
 
